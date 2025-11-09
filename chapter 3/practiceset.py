@@ -1,0 +1,5 @@
+name =input("Enter Name : ")
+date =input("Enter Date : ")
+print("Dear", name)
+print("You are selected!")
+print(date)
